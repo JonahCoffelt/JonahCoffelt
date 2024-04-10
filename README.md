@@ -1,4 +1,4 @@
-# Hi, I'm Jonah
+# Hi, I'm Jonah 👋
 I am a software developer. I study at Texas A&M. I am intrested in all things Python, graphics, algorithms, machine learning, web dev, and game dev.
 ## Projects
 ### 3D Python Engine 🌐
