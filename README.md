@@ -1,5 +1,5 @@
 # Hi, I'm Jonah
-I am a software developer. 
+I am a software developer. I study at Texas A&M. I am intrested in all things Python, graphics, algorithms, machine learning, web dev, and game dev.
 ## Projects
 ### 3D Python Engine
 - A simple and lightweight 3D engine built using ModernGL. Supports advanced rendering, model loading, lighting, physics, mesh generation, particles, and UI.
