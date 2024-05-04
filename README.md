@@ -8,4 +8,4 @@ I am a software developer. I study at Texas A&M. I am intrested in all things Py
 ### 🕹️ As A Mere Means
 - A small game made for the Pirate Software Game Jam. Built using Pygame and playable in browser. Displays the possibilities of 2D game built for Pygame, with fun combat and impressive VFX.
 ### 🤖 Neural Network
-- My first dive into ML. This was a simply neural network built from scratch using numpy. It was trained to recognize handwritten numbers with >95% accuracy. 
+- My first dive into ML. This was a simple neural network built from scratch using numpy. It was trained to recognize handwritten numbers with >95% accuracy. 
