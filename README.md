@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Jonah
-I am a software developer. I study at Texas A&M. I am interested in all things Python, graphics, algorithms, machine learning, web dev, and game dev. I am a lead developer of Basilisk Engine.
+I a computer science major at Texas A&M. I am interested in all things machine learning, graphics, algorithms, game dev, and web dev. I am an LLM Researcher in the DIVE Lab, and I build space simulation software with the A&M SpaceCRAFT Lab.
+
 ## Projects
 ### 🎮 Basilisk Engine
 - An easy-to-use 3D engine package for Python. Includes physically based rendering, built-in physics, and user customization, all in real-time.
