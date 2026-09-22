@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Jonah
-I a computer science major at Texas A&M. I am interested in all things machine learning, graphics, algorithms, game dev, and web dev. I am an LLM Researcher in the DIVE Lab, and I build space simulation software with the A&M SpaceCRAFT Lab.
+I a computer science major at Texas A&M. I am interested in all things machine learning, graphics, algorithms, game dev, and web dev. I am an LLM Researcher in the DIVE Lab, and I build space simulation software with the A&M SpaceCRAFT Lab. Check out more of my work on my [personal website](https://www.jonahcoffelt.com/)
 
 ## Projects
 ### 🎮 Basilisk Engine
